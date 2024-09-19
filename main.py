@@ -16,9 +16,17 @@ class Main:
         #    the same player number. If so, displays the winner’s name. If after 9 moves, there is no
         #    winner then displays -1
     
+    def create_board():
+        print()
+        # creating the board
+
     def possibilities():
         print()
         # chosing random place to put (for computers move)
+
+    def random_place():
+        print()
+        # randomly selecting one of the empty spaces
 
     def rol_win():
         print()
